@@ -52,18 +52,5 @@ def main():
 
 		print "Log-in Success My-Tools...!!\n"
 
-		restart()
-
-
-
-
-try:
-
-	main()
-
-except KeyboardInterrupt:
-
-	os.system()
-
-	restart()
+		
 bash name.sh
