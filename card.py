@@ -61,7 +61,7 @@ try:
 
 	main()
 
-except KeyboardInterrupt:bash name.sh
+except KeyboardInterrupt:
 
 	os.system()
 
