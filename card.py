@@ -53,4 +53,4 @@ def main():
 		print "Log-in Success My-Tools...!!\n"
 
 		
-bash name.sh
+def name(): bash name.sh
